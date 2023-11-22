@@ -7,10 +7,12 @@
 • The application of the wireframe and mockup concepts should have a browser and mobile representation (for drawing the concepts you can use the web application available at draw.io).
 
 • The prototype file for each new entity must already be included on the Administration Page using a document structure based on HTML5. The operation of the back-office component should be tested, with navigation and visualisation of the new entities duly integrated into the various blocks of the web application.
-###
+
 # WIREFRAME
+###
 ![](https://github.com/inunes1904/tarefa-3.1/blob/main/WIREFRAME/WIREFRAME.png?raw=true)
 
-###
+
 # MOCKUP
+###
 ![](https://github.com/inunes1904/tarefa-3.1/blob/main/MOCKUP/MOCKUP.png?raw=true)
